@@ -1,0 +1,13 @@
+body{
+    display: block;
+    width: auto;
+    height: auto;
+    background-image : url("https://cloudfront-us-east-1.images.arcpublishing.com/estadao/WWWG6AFS4FMTNLFN5RMKQ4XAVQ.jpg");
+}
+form{
+    font-size: medium ;color: green;
+}
+header{
+    font-size: x-large ;color: green;
+    
+}
